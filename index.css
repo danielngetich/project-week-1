@@ -98,6 +98,7 @@ margin: auto;
 }
 .objective{
     display: flex;
+    padding-top: 50px;
 }
 .intro{
     font-size: larger;
@@ -116,6 +117,7 @@ font-size: xx-large;;
 .top{
     display: flex;
     flex-direction: row;
+    border-bottom: solid grey 5px;
 }
 .pop{
     margin: auto;
@@ -125,4 +127,15 @@ font-size: xx-large;;
     font-size: xx-large;
     font-weight: bold;
     font-style: italic;
+    font-family: serif;
+}
+#h{
+    color: #2549D3;
+}
+#get{
+    border: 1px;
+    background-color: #2549D3;
+    color: white;
+    height: 50px;
+    width: 100px;
 }
