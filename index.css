@@ -1,3 +1,7 @@
+*{
+    background-color: #2549D3, #0F298B, #FAFAFA;
+    font-style: Space Grotesk, Oleo Script;
+}
 .top{
     color: blue;
     display: block
@@ -24,4 +28,20 @@ margin: auto;
 }
 .footer1 ul li{
     list-style: none;
+}
+.customers{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.alex{
+    border: solid white;
+    margin: auto;
+    padding-bottom: 15px;
+    background-color: burlywood;
+    border-radius: 5%;
+    
+}
+.est{
+    text-align: center;
 }
