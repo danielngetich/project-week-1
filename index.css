@@ -93,7 +93,7 @@ border: 1px;
 }
 #our{
     padding-left: 100px;
-    font-size: larger;
+    font-size: 36px;    
     color: #2549D3;
 }
 .direction{
@@ -103,6 +103,9 @@ border: 1px;
 }
 .lo{
     margin: auto;
+}
+.lo h3{
+    color: #2549D3;
 }
 #button2{
     font-size: larger;
@@ -157,4 +160,16 @@ font-size: 36px;
     text-align: center;
     border-radius: 5%;
     padding: 10px;
+}
+.world h2{
+    font-size: 36px;
+    color: #2549D3;
+}
+.world p{
+    font-size: 28px;
+}
+.las{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
 }
