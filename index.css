@@ -2,13 +2,6 @@
     background-color: #2549D3, #0F298B, #FAFAFA;
     font-style: Space Grotesk, Oleo Script;
 }
-.top{
-    color: blue;
-    display: block
-}
-#vallie{
-    font-style: italic;
-}
 .footer{
 border: 1px;
 background-color: blue;
@@ -123,6 +116,13 @@ font-size: xx-large;;
 .top{
     display: flex;
     flex-direction: row;
-    border: 1px;
+}
+.pop{
     margin: auto;
+    padding: 50px;
+}
+#val{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
 }
