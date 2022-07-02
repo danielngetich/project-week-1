@@ -45,3 +45,17 @@ margin: auto;
 .est{
     text-align: center;
 }
+.imag{
+    display: flex;
+    flex-direction: row;
+    border: solid white;
+    border-radius: 5%;
+    margin: auto;
+}
+.feat{
+    text-align: center;
+}
+.us{
+    display: flex;
+    flex-direction: row
+}
