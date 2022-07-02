@@ -103,3 +103,26 @@ margin: auto;
 #button2 h2{
     padding: auto;
 }
+.objective{
+    display: flex;
+}
+.intro{
+    font-size: larger;
+    margin: 100px;
+}
+#aim{
+color: #2549D3;
+font-size: xx-large;;
+}
+.image1{
+    margin-left: 150px;
+}
+.describe{
+    font-size: x-large;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    border: 1px;
+    margin: auto;
+}
