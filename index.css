@@ -1,15 +1,7 @@
-body{
-    background-color: #2549D3, #0F298B, #FAFAFA;
+.top{
+    color: blue;
+    display: block
 }
-.vallie{
+#vallie{
     font-style: italic;
-}
-h2{
-    color: blue;
-}
-h1{
-    color: blue;
-}
-div{
-    display: inline;
 }
