@@ -5,3 +5,13 @@
 #vallie{
     font-style: italic;
 }
+.footer{
+border: 1px;
+background-color: blue;
+color: white;
+display: flex;
+flex-direction: row;
+}
+.footer1{
+margin: auto;
+}
