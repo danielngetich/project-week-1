@@ -31,12 +31,29 @@ margin: auto;
     border: solid white;
     margin: auto;
     padding-bottom: 15px;
-    background-color: burlywood;
+    background-color: white;
     border-radius: 5%;
     
 }
+.alex h2{
+font-size: larger;
+}
 .est{
     text-align: center;
+}
+.est h2{
+    font-size: 36px;
+    color: #2549D3;
+}
+.est p{
+    font-size: 28px;
+}
+.feat h2{
+    color: #2549D3;
+    font-size: 36px;
+}
+.feat p{
+    font-size: 32px;
 }
 .imag{
     display: flex;
@@ -44,6 +61,9 @@ margin: auto;
     border: solid white;
     border-radius: 5%;
     margin: auto;
+}
+.view {
+border: 1px;
 }
 .feat{
     text-align: center;
