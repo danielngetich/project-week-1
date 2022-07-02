@@ -59,3 +59,47 @@ margin: auto;
     display: flex;
     flex-direction: row
 }
+.mark{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 15px;
+}
+.and{
+    margin: auto;
+    border: solid white ;
+    border-radius: 5%;
+    text-align: center;
+}
+.how{
+    text-align: center;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+#it{
+    color: #2549D3;
+}
+#our{
+    padding-left: 100px;
+    font-size: larger;
+    color: #2549D3;
+}
+.direction{
+    border: solid white;
+    margin: auto;
+    display: flex;
+}
+.lo{
+    margin: auto;
+}
+#button2{
+    font-size: larger;
+    background-color: #2549D3;
+    color: white;
+    height: 60px;
+    width: 120px;
+    text-align: center;
+    border-radius: 5%;
+}
+#button2 h2{
+    padding: auto;
+}
