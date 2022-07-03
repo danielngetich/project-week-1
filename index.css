@@ -58,11 +58,27 @@ font-size: larger;
 .imag{
     display: flex;
     flex-direction: row;
-    border: solid white;
-    border-radius: 5%;
     margin: auto;
 }
-.view {
+.palace{
+    border: block white;
+    background-color: aqua;
+    margin: 30px;
+    border-radius: 10%;
+}
+.rory{
+    border: block white;
+    background-color: gainsboro;
+    margin: 30px;
+    border-radius: 10%;
+}
+.rexona{
+    border: block white;
+    background-color: rebeccapurple;
+    margin: 30px;
+    border-radius: 10%;
+}
+.view { 
 border: 1px;
 }
 .feat{
