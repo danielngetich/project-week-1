@@ -62,19 +62,19 @@ font-size: larger;
 }
 .palace{
     border: block white;
-    background-color: aqua;
+    background-color:white;
     margin: 30px;
     border-radius: 10%;
 }
 .rory{
     border: block white;
-    background-color: gainsboro;
+    background-color: white;
     margin: 30px;
     border-radius: 10%;
 }
 .rexona{
     border: block white;
-    background-color: rebeccapurple;
+    background-color: white;
     margin: 30px;
     border-radius: 10%;
 }
@@ -159,7 +159,7 @@ font-size: 36px;
 .top{
     display: flex;
     flex-direction: row;
-    border-bottom: solid grey 5px;
+    border-bottom: solid grey 1px;
 }
 .pop{
     margin: auto;
